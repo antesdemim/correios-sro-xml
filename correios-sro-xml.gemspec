@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "log-me",      "~> 0.0.10"
   spec.add_dependency "nokogiri",    "~> 1.6"
-  spec.add_dependency "sax-machine", "~> 0.2.1"
+  spec.add_dependency "sax-machine", "~> 1.3"
 
   spec.add_development_dependency "coveralls"
   spec.add_development_dependency "pry"
